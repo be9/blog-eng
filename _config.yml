@@ -9,6 +9,8 @@ url: http://www.be9.io
 # Localhost
 # url: http://127.0.0.1:4000
 
+ga: true
+
 # Harmony theme configuration. Please change accordingly.
 harmony:
   name: Fire Bowl
