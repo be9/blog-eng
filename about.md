@@ -4,24 +4,26 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+<img src="/assets/images/oleg.jpg" style="float: left; width: 53%; margin-right: 26px;"/>
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+Hi, I'm Oleg Dashevskii, a developer based in Siberia (Russia). I graduated from
+[Novosibirsk State University][nsu].
 
-### Contact me
+Over the last few years I've been working on Ruby on Rails backends in various
+startups: APIs, caching, optimization, etc.
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+I also have a scientific background (PhD included!). My primary interest in this
+field is Machine Learning: complex-valued neural networks and more mundane things.
 
+Last, but not the least, I teach Object Oriented Programming course in my alma
+mater.
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+Basically I've been programming since I was 10, and it's still fun! Latest tech
+which ignites me is Clojure and Rust.
+
+Find me on [Github][github] / [Twitter][Twitter] or drop a line to
+[be9@be9.ru](be9@be9.ru).
+
+[nsu]: http://www.nsu.ru
+[github]: https://github.com/be9
+[twitter]: https://twitter.com/be9
