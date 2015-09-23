@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "How I spent two weeks hunting memory leak in Ruby"
+title:  "How I spent two weeks hunting a memory leak in Ruby"
 date:   2015-09-21 19:00:00
 comments: true
-excerpt: This is a story about hunting memory leak. A long story, because I go into much detail…
+excerpt: This is a story about hunting a memory leak. A long story, because I go into much detail…
 ---
 
 _(This post was translated, the [original version](http://be9.ru/2015/09/12/memory-leak.html)
@@ -11,7 +11,7 @@ is in my [Russian blog](http://be9.ru).)_
 
 # Foreword
 
-This is a story about hunting memory leak. A long story, because I go into much
+This is a story about hunting a memory leak. A long story, because I go into much
 detail.
 
 Why describe my adventures? Not that I wanted to save all those
