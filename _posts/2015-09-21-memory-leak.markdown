@@ -692,7 +692,7 @@ to live process. So, taking some address and looking what's there:
 {% endhighlight %}
 
 Looks like a bunch of pointers. Intel is little-endian, so most significant
-byte is at the end, so first line represents `0x7f1139dee134` number
+byte is at the end and first line represents `0x7f1139dee134` number
 (the `0x7f113..` thing made me believe it's an address).
 Helpful? Not much.
 
@@ -730,7 +730,7 @@ if (size == 320) {
 }
 {% endhighlight %}
 
-I repeated everything again, ran the possible leak detection script and started to look up
+Then I repeated everything again, ran the possible leak detection script and started to look up
 the found addresses in the log, as backtraces were neatly printed near them.
 
 And what I saw was…
