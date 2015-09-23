@@ -6,6 +6,9 @@ comments: true
 excerpt: This is a story about hunting memory leak. A long story, because I go into much detail…
 ---
 
+_(This post was translated, the [original version](http://be9.ru/2015/09/12/memory-leak.html)
+is in my [Russian blog](http://be9.ru).)_
+
 # Foreword
 
 This is a story about hunting memory leak. A long story, because I go into much
