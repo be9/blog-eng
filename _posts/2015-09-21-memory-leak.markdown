@@ -786,3 +786,5 @@ with normal memory consumption graph:
 ![Memory consumption after leak fix](/assets/images/heroku_metrics_noleak.png)
 
 Here's no trend at all. As it should be.
+
+_Update on 2015/09/29_. [Redcarpet fix has been released]({% post_url 2015-09-29-redcarpet-fix-released %}).
