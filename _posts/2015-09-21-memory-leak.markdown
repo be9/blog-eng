@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I spent two weeks hunting a memory leak in Ruby"
-date:   2015-09-21 19:00:00
+date:   2015-09-21 00:00:00
 comments: true
 excerpt: This is a story about hunting a memory leak. A long story, because I go into much detail…
 ---
