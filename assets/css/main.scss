@@ -759,3 +759,22 @@ ol ul li {
 div.page-content blockquote p {
     margin-bottom: 0.3em;
 }
+
+.hire_me_block {
+  // <div style="border: 2px solid #eee; margin-top: 10px; padding: 10px;">
+  background: #efefef;
+  padding: 10px 15px;
+}
+
+.post .hire_me_block {
+  margin-top: 45px;
+}
+
+.banner {
+  border-top: 1px solid $base-05;
+  border-bottom: 1px solid $base-05;
+  margin: 5px 0 25px;
+  padding: 15px 0;
+  font-size: 1.125rem;
+  line-height: 1.6;
+}

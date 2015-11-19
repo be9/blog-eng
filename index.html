@@ -3,6 +3,8 @@ layout: default
 ---
 <div id="home" class="page-content wc-container">
 	<div class="posts">
+  		{% include hireme.html %}
+
   		{% for post in site.posts limit:10 %}
   			<div class="post">
     			<h3 class="post-title">
@@ -18,12 +20,12 @@ layout: default
             </span> |
             {% endif %}
             <span class="post-date">
-            {{ post.date | date: "%b %-d, %Y" }} 
+            {{ post.date | date: "%b %-d, %Y" }}
             </span>
-          </p>          
-    			    			
+          </p>
+
   				<p>
-	  				{{ post.excerpt }}	
+	  				{{ post.excerpt }}
   				</p>
   				<p>
   					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title}}">
