@@ -345,7 +345,7 @@ fi
 So, we're setting everything up and delegating actual deployment to
 the `bin/deploy.sh` script.
 
-Note that if you're creating a second, third, etc. job, don't start from
+Note that if you're creating the second, the third, etc. job, don't start from
 scratch, use copy mode instead:
 
 ![Copy the existing job](/assets/heroku-deploy/jenkins_copy.png){:width="725"}
