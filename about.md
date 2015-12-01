@@ -10,7 +10,7 @@ Hi, I'm Oleg Dashevskii, a developer based in Siberia (Russia). I graduated from
 [Novosibirsk State University][nsu].
 
 Over the last few years I've been working on Ruby on Rails backends in various
-startups. Currently I'm employed by [Shuttlerock][shuttlerock].
+startups. {% if false %}Currently I'm employed by [Shuttlerock][shuttlerock].{% endif %}
 
 I also have a scientific background (PhD included!). My primary interest in this
 field is Machine Learning: complex-valued neural networks and more mundane things.

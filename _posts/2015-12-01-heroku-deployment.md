@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A powerful way to deploy to Heroku"
-date:   2015-11-18
+date:   2015-12-01
 comments: true
 excerpt: …If we already are here, in this chat, let's also deploy here! And let all stages and the deployment result be obvious. This story tells how I implemented such a scheme.
 ---
